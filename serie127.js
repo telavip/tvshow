@@ -75,46 +75,6 @@ window.series127Data = {
             "runtime": 0,
             "still_path": "https://image.tmdb.org/t/p/original/l3Kt2dqStHhcl39iq6qBl2sF2BH.jpg",
             "vote_average": 0
-          },
-          "5": {
-            "name": "Episódio 5",
-            "overview": "N/A",
-            "air_date": "2025-03-25",
-            "runtime": 0,
-            "still_path": "N/A",
-            "vote_average": 0
-          },
-          "6": {
-            "name": "Episódio 6",
-            "overview": "N/A",
-            "air_date": "2025-03-25",
-            "runtime": 0,
-            "still_path": "https://image.tmdb.org/t/p/original/m4zAmcqMF9RpKNQNYpIYcNErJQ2.jpg",
-            "vote_average": 0
-          },
-          "7": {
-            "name": "Episódio 7",
-            "overview": "N/A",
-            "air_date": "2025-04-01",
-            "runtime": 0,
-            "still_path": "https://image.tmdb.org/t/p/original/5lIryvVphn2iMAuQXWQOW785oDP.jpg",
-            "vote_average": 0
-          },
-          "8": {
-            "name": "Episódio 8",
-            "overview": "N/A",
-            "air_date": "2025-04-08",
-            "runtime": 0,
-            "still_path": "N/A",
-            "vote_average": 0
-          },
-          "9": {
-            "name": "Episódio 9",
-            "overview": "N/A",
-            "air_date": "2025-04-15",
-            "runtime": 0,
-            "still_path": "N/A",
-            "vote_average": 0
           }
         }
       }
