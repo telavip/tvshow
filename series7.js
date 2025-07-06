@@ -33,7 +33,7 @@ const series7 = [
   ],
   "first_air_date": "2013-12-02",
   "popularity": 198.946,
-  "vote_average": "8.69",
+  "vote_average": 8.69,
   "poster_path": "https://image.tmdb.org/t/p/w200/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg",
   "networks": [
     80
@@ -53,7 +53,7 @@ const series7 = [
   ],
   "first_air_date": "2014-06-07",
   "popularity": 38.2911,
-  "vote_average": "7.665",
+  "vote_average": 7.665,
   "poster_path": "https://image.tmdb.org/t/p/w200/ctftzvyj8b0odco7EoS9VfJhf7K.jpg",
   "networks": [
     318
@@ -73,7 +73,7 @@ const series7 = [
   ],
   "first_air_date": "2020-09-06",
   "popularity": 87.0592,
-  "vote_average": "8.3",
+  "vote_average": 8.3,
   "poster_path": "https://image.tmdb.org/t/p/w200/8rbxvwGpPd9MWjdhAoSBj016cns.jpg",
   "networks": [
     318
@@ -93,7 +93,7 @@ const series7 = [
   ],
   "first_air_date": "2021-07-18",
   "popularity": 40.2513,
-  "vote_average": "8.256",
+  "vote_average": 8.256,
   "poster_path": "https://image.tmdb.org/t/p/w200/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg",
   "networks": [
     318
@@ -113,7 +113,7 @@ const series7 = [
   ],
   "first_air_date": "2022-02-06",
   "popularity": 17.5429,
-  "vote_average": "8.341",
+  "vote_average": 8.341,
   "poster_path": "https://image.tmdb.org/t/p/w200/cR0ursLXoT0zfX9XDGAzQRAnK0W.jpg",
   "networks": [
     318
@@ -133,7 +133,7 @@ const series7 = [
   ],
   "first_air_date": "2021-09-26",
   "popularity": 31.5828,
-  "vote_average": "8.034",
+  "vote_average": 8.034,
   "poster_path": "https://image.tmdb.org/t/p/w200/5gUlUufL3fom30qxKawwlWuD7kC.jpg",
   "networks": [
     318
@@ -153,7 +153,7 @@ const series7 = [
   ],
   "first_air_date": "2025-06-03",
   "popularity": 54.0752,
-  "vote_average": "6.768",
+  "vote_average": 6.768,
   "poster_path": "https://image.tmdb.org/t/p/w200/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
   "networks": [
     2552
@@ -173,7 +173,7 @@ const series7 = [
   ],
   "first_air_date": "2025-06-24",
   "popularity": 254.2086,
-  "vote_average": "5.693",
+  "vote_average": 5.693,
   "poster_path": "https://image.tmdb.org/t/p/w200/yRanvKZhy5NdF64amF0WNOAIuQu.jpg",
   "networks": [
     2739
@@ -192,7 +192,7 @@ const series7 = [
   ],
   "first_air_date": "2022-01-24",
   "popularity": 46.2139,
-  "vote_average": "7.8",
+  "vote_average": 7.8,
   "poster_path": "https://image.tmdb.org/t/p/w200/agrNZZDXsOThmNFB0cjXeb35BvQ.jpg",
   "networks": [
     49
@@ -211,7 +211,7 @@ const series7 = [
   ],
   "first_air_date": "2025-05-28",
   "popularity": 22.623,
-  "vote_average": "5.708",
+  "vote_average": 5.708,
   "poster_path": "https://image.tmdb.org/t/p/w200/z5c1KTvUd8CeRlkBd8c3Kp3yUEV.jpg",
   "networks": [
     88
@@ -231,7 +231,7 @@ const series7 = [
   ],
   "first_air_date": "2025-06-18",
   "popularity": 75.1173,
-  "vote_average": "6.772",
+  "vote_average": 6.772,
   "poster_path": "https://image.tmdb.org/t/p/w200/cLwxFcO4pyji3YwkKBnM42a0yQf.jpg",
   "networks": [
     1024
@@ -251,7 +251,7 @@ const series7 = [
   ],
   "first_air_date": "2025-06-05",
   "popularity": 401.2487,
-  "vote_average": "8.031",
+  "vote_average": 8.031,
   "poster_path": "https://image.tmdb.org/t/p/w200/nNicd3JYAjbbo93WCpgBc6UJzrF.jpg",
   "networks": [
     6783
@@ -272,7 +272,7 @@ const series7 = [
   ],
   "first_air_date": "2025-05-15",
   "popularity": 98.8214,
-  "vote_average": "7.462",
+  "vote_average": 7.462,
   "poster_path": "https://image.tmdb.org/t/p/w200/rWQYtLHVzG44Ks6Ohi6K1IVyIwq.jpg",
   "networks": [
     2552
@@ -293,7 +293,7 @@ const series7 = [
   ],
   "first_air_date": "2025-06-28",
   "popularity": 140.7378,
-  "vote_average": "9.6",
+  "vote_average": 9.6,
   "poster_path": "https://image.tmdb.org/t/p/w200/kBRyCCZWipMO5Gu9Y02nE3iMgr0.jpg",
   "networks": [
     2007
@@ -314,7 +314,7 @@ const series7 = [
   ],
   "first_air_date": "2025-06-12",
   "popularity": 20.7099,
-  "vote_average": "6.5",
+  "vote_average": 6.5,
   "poster_path": "https://image.tmdb.org/t/p/w200/5CuMd9uyNlN9BAxnE29B19pFenZ.jpg",
   "networks": [
     77,
@@ -335,7 +335,7 @@ const series7 = [
   ],
   "first_air_date": "2025-05-15",
   "popularity": 50.1388,
-  "vote_average": "6",
+  "vote_average": 6,
   "poster_path": "https://image.tmdb.org/t/p/w200/h3cbwxUdUev04z2KBEsvvJ2QwYE.jpg",
   "networks": [
     6783
