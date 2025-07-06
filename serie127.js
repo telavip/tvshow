@@ -2872,7 +2872,6 @@ window.series127Data = {
       }
     }
   },
-  {
   "248830": {
     "id": 248830,
     "name": "Stick",
